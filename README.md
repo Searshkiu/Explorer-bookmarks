@@ -1,2 +1,24 @@
 # Explorer-bookmarks
 浏览器 书签/历史存档
+### 目录
+### STUDY
+#### OI
+- [OI Wiki](oi-wiki.org)
+- [国内程序员最容易发音错误的单词集合](https://open-hl.toutiao.com/a6861018832438297100/?item_id=6861018832438297100&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f7ea13f1c723590c9ef463eea17f7d4a443b88d3ea422e8bfe27dc985a3278579d52e5fcaf73b166d9249df453463699e0a65df8d01a60fe969d32664a2a479319&a_t=311598652289461007502964646&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=8844&req_id=2020081722281201019805902257241393&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)  
+#### 数学
+- [高中数学必考公式全总结](https://zhuanlan.zhihu.com/p/34498340)  
+- [拓扑到底是什么](https://open-hl.toutiao.com/a6872865597441606157/?item_id=6872865597441606157&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f70ab327b416065d9aed4d5812c55cae55697fb761d43b11a8bdd00cbaf943c05888fb2dccf490fc6090f1fb7c5639a2ac76ab92378729bad3984d9ccc96167907a5669b0b0fe35d7684510476ba1c6a2d&a_t=31161425224346100750296d788&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=4772&req_id=20201130191906010198060138440B94A9&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
+#### 物理
+- [乐乐课堂的个人空间](https://m.bilibili.com/space/125269176?from=video)
+- [你为什么喜欢物理？-知乎](https://www.zhihu.com/question/19963955)
+- [如何推导常用刚体的转动惯量](https://www.zhihu.com/question/20921038)
+- [从费马到费曼：《降临(Arrival)》](https://zhuanlan.zhihu.com/p/25027356)
+#### 文学/Literature
+- [有哪些句子，曾让你产生「我一辈子都写不出来」的想法？](https://open-hl.toutiao.com/a6851964943344861700/?item_id=6851964943344861700&utm_medium=webview&showComments=0&gy=307ed5552b7de63f21383484ec489e6c6725241b0bedfe948fe7f7b54b0c9a01acd2ac4e3a9f71579491693a772a02e16df9b6489856eb50b23500eeffa389c6af95b23c29d775cde4c4f47aad89b49e2e70528085b19ebba78c9137c211711685e62d943ba21bde6444d806674ef0fb6573fd389d3f9c1a9f2b93db0f5b24363b5cd302ab2874c2e666b78185ca748e&a_t=31160644690146100750296b5f5&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=9869&req_id=202009072244570101980620871C09968D&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
+- [ATOS与蓝思阅读体系](http://www.360doc.cn/mip/897773662.html)
+- [老虎【英】威廉·布莱克](http://m.1010jiajiao.com/czyw/shiti_id_52a51e886f19972304fb492833fb2ec2)
+- [纪实类文学作品阅读要点](http://blog.sina.cn/dpool/blog/s/blog_5d576b3e0102x8ck.html)
+- [外国文学名著最佳中译本](https://m.wang1314.com/doc/webapp/topic/21040246.html)
+- [常用英文缩写大全](https://blog.csdn.net/bluehawksky/article/details/79041409)
+#### 考试技巧
+- [怎样提高自己的答题速度？](https://m.sohu.com/a/306392445_820519)
