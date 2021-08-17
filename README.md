@@ -1,6 +1,8 @@
 # Explorer-bookmarks
 浏览器 书签/历史存档
+***
 ### 目录
+***
 ### STUDY
 #### OI
 - [OI Wiki](oi-wiki.org)
@@ -22,7 +24,7 @@
 - [常用英文缩写大全](https://blog.csdn.net/bluehawksky/article/details/79041409)
 #### 考试技巧
 - [怎样提高自己的答题速度？](https://m.sohu.com/a/306392445_820519)
- 
+ ***
 ### Hobbies | Workout
 #### 冰刀
 - [初阶冰刀滑冰教程](https://m5.baidu.com/video/page?pd=video_page&nid=4026679324937039566&sign=14512744952857284574&word=%E6%BB%91%E5%86%B0%E5%88%80&oword=%E6%BB%91%E5%86%B0%E5%88%80&atn=index&frsrcid=4185&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&sl=4&fr0=A&fr1=A&lid=11038580669550119891&referlid=11038580669550119891&ms=1&frorder=3&_t=1622902947452)
@@ -43,7 +45,9 @@
 - [北京协和医院减重秘籍，进来抄食谱](https://open-hl.toutiao.com/a6907512640172458504/?item_id=6907512640172458504&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f7123b5bd81b857b9922810852461b3c6a2ae56b60cf6e4c5dc5cc7a9d6d1a1b4c1dde568a7b2b991ed9063bed0253f03820bd6ed143bb711cd7b73bf0783c2b05b4ab24373f098bf63eeb7997da10111f&a_t=31161425224346100750296d788&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=2276&req_id=202012190647320101980590161C3EA942&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
 - [学霸教你怎样做精力管理](https://open-hl.toutiao.com/a6867335149349143044/?item_id=6867335149349143044&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f709fd681e5204a62a615d21070ff0d9de9ec0ce36fa38329e8929ed2ce3ce416894a85fef3b4b6ab5c0e8487ff6c0dbd2026535b9fc34956a160d20e23bf84cf0beb45ed1200654275bfe955ef4b0376e&a_t=31160644690146100750296b5f5&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=9084&req_id=2020101318223201019802310336001257&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
 - [奥运冠军杨伊琳教你起床后唤醒身体](https://partner-share.toutiao.com/a6857351454923948556/?utm_medium=webview&showComments=0&a_t=31160644690146100750296b5f5&label=share&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&app=news_article&req_id=202009302036490101980570994B17A6B8&is_hit_share_recommend=0&vivo_news_comment_data=%7B%22video_item%22%3A%7B%22id%22%3A%22v020048d0000bsl33gn5t6p6rldoniu0_6857351454923948556_2_11%22%2C%22title%22%3A%22%E6%97%A9%E4%B8%8A%E5%A4%AA%E5%9B%B0%E8%B5%B7%E4%B8%8D%E6%9D%A5%EF%BC%9F%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E6%95%99%E4%BD%A0%E4%B8%80%E5%A5%97%E7%BB%8F%E5%85%B8%E5%8A%A8%E4%BD%9C%EF%BC%8C%E8%BD%BB%E6%9D%BE%E5%85%8B%E6%9C%8D%E6%87%92%E6%83%B0%E9%97%AE%E9%A2%98%EF%BC%81%22%2C%22duration%22%3A%2203%3A06%22%2C%22web_url%22%3A%22https%3A%5C%2F%5C%2Fopen.toutiao.com%5C%2Fa6857351454923948556%5C%2F%3Futm_campaign%3Dopen%26utm_medium%3Dwebview%26utm_source%3Dvivoliulanqi%26req_id%3D202009302036490101980570994B17A6B8%26dt%3Dvivo%2BX6Plus%2BD%26label%3Dvivo_llq_channel%26a_t%3D31160644690146100750296b5f5%26gy%3D307ed5552b7de63f21383484ec489e6c6725241b0bedfe948fe7f7b54b0c9a01acd2ac4e3a9f71579491693a772a02e16df9b6489856eb50b23500eeffa389c6b68964e3e6573a3874f967cedfc180bc15fe9bb41cf4c1722a1627814be026d6e2f05234db2531c05df77ec0aeb445473e347d31fb8232b1a2bf480777bd145e46b57bf8684ef721a02be39ff12ed422%26crypt%3D7269%26item_id%3D6857351454923948556%26isNews%3D1%26disableRecommendVideo%3D1%26compact_mode%3D1%26showComments%3D0%26showOriginalComments%3Dtrue%22%2C%22channel%22%3A%2298%22%2C%22source%22%3A1%2C%22type%22%3A0%2C%22videoCoverUrl%22%3A%22https%3A%5C%2F%5C%2Fp26-tt.byteimg.com%5C%2Fimg%5C%2Ftos-cn-i-0004%5C%2F8c07309969d64a809bbabff004d1db4d~tplv-tt-cs0%3A960%3A540.webp%3Ffrom%3Dfeed%22%7D%7D&vivo_news_source=1&vivo_news_comment_data_checksum=a4bc2cce7e7cb0f6310db4f8a9d236b9)
-
+***
 ### LIGHT readings
+***
 ### Entertaining
+***
 ### Tips on daily life
