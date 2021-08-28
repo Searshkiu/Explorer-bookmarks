@@ -75,6 +75,23 @@
 - [【HP/GGAD】赎回-烛渐失控](https://christglim.lofter.com/post/2b1e66_1c8a76676)
 - [贪欢-bot](https://ggadliangcangbot.lofter.com/post/4bd356b7_1cb270b98?act=qbwaptag_20160216_05)
 - [暴雨：盖勒特·格林德沃传记](https://who-cares-whether-you-care.lofter.com/post/1f208ba9_12c823cdb)
+- [LOFTER | GGAD圣诞24h](https://www.lofter.com/tag/GGAD%E5%9C%A3%E8%AF%9E24h)
+- [LOFTER GG致AD伪遗书](https://huaxingqiuyueyu.lofter.com/post/2053b07b_1cb38e75f?act=qbwaptag_20160216_05)
+- [1900诗作集-一斤诶梨](https://ericaaaaa.lofter.com/post/278b26_fe18d85)
+- [【GGAD】空屋-一只甜戈戈](https://xy721521.lofter.com/post/1d7a6d06_1cb48f335?act=qbwaptag_20160216_05)
+- [Just like you knew that](https://dengeu.lofter.com/post/32201702_1cb278456?act=qbwaptag_20160216_05) 疑似汪芷名的作品
+- [LOFTER | GGAD粮食bot](https://ggadliangcangbot.lofter.com/)
+- [像自由一样美丽-四分之一个果子派](https://dabanguozi700.lofter.com/post/1ee40d55_1c849853b)
+- [FanFiction Mobile](https://m.fanfiction.net/#end)
+- [【GGAD】一天08（完结）](https://zheliang-youknowwhoiam.lofter.com/post/1de33f5a_1c81d271b)
+- [【GGAD】Out Of Character](https://yujochen.lofter.com/post/1f9b2521_1caee3093?act=qbwaptag_20160216_05)
+- [广场上的陌生人-Res Lpsa Loquitur](https://resipsaloquitur1901.lofter.com/post/31026cc4_1cad647c2)
+- [【GGAD】五幕喜剧-Valkyrie](https://mtvalhalla.lofter.com/post/1e3dda80_1cb7f33b3?act=qbwaptag_20160216_05)
+- [伦敦的黎明静悄悄-Res Ipsa Loquitur](https://resipsaloquitur1901.lofter.com/post/31026cc4_1cb7f36d6?act=qbwaptag_20160216_05)
+- [LOFTER Res Ipsa Loquitur](https://resipsaloquitur1901.lofter.com/)
+- [GGAD逐光24H | 情人节联文](https://www.lofter.com/tag/%E9%80%90%E5%85%8924H)
+- [LOFTER|Qurainbow](https://qurainbow.lofter.com/)
+- [GGAD和邓布利多tag考古](https://jieshoubutongyijian.lofter.com/post/4b4f9ee7_1cc4f7a1f?act=qbwaptag_20160216_05)
 ***
 ### Entertaining
 ***
