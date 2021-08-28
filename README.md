@@ -92,6 +92,10 @@
 - [GGAD逐光24H | 情人节联文](https://www.lofter.com/tag/%E9%80%90%E5%85%8924H)
 - [LOFTER|Qurainbow](https://qurainbow.lofter.com/)
 - [GGAD和邓布利多tag考古](https://jieshoubutongyijian.lofter.com/post/4b4f9ee7_1cc4f7a1f?act=qbwaptag_20160216_05)
+- [特写|用十年让梦想照进现实 刘诗雯写就励志大剧](https://sports.sina.cn/others/pingpang/2019-04-28/detail-ihvhiewr8713707.d.html?from=wap)
+- [LOFTER 成败](http://969724456.lofter.com/post/1e0c6031_ca2dd50)
+- [LOFTER 成败（番外）](https://969724456.lofter.com/post/1e0c6031_ca4f67d)
+- [[獒蟒]悉破](https://share.weiyun.com/5mNr36OV)
 ***
 ### Entertaining
 ***
