@@ -58,6 +58,23 @@
 - [这四本“闲书”，每一本都是一个世界](https://open-hl.toutiao.com/a6864041137275929091/?item_id=6864041137275929091&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f70ab327b416065d9aed4d5812c55cae55697fb761d43b11a8bdd00cbaf943c05888fb2dccf490fc6090f1fb7c5639a2ac76ab92378729bad3984d9ccc96167907a5669b0b0fe35d7684510476ba1c6a2d&a_t=31160644690146100750296b5f5&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=7932&req_id=202008232317130101980582084837990E&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
 - [九个翻译者，一场文化的抵抗](https://open-hl.toutiao.com/a6863796190928962052/?item_id=6863796190928962052&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f70ab327b416065d9aed4d5812c55cae5503c6903c476419b60d1b391096360231ba16ae5924b098f38e3e842c594fe837613116810ed479b7a016cd97f6e588b36c4a85b7ffd160aa3af105254ade1c3b&a_t=31160644690146100750296b5f5&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=1900&req_id=20200824162813010198060138490BA88A&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
 - [《像托尔斯泰一样写故事》](https://open-hl.toutiao.com/a6858063443262439939/?item_id=6858063443262439939&utm_medium=webview&showComments=0&gy=9dbad34f7c0b2d34b8ec9da44edc46639a99555ad69fe46ea06a10e53a10dbb4135f2496b64555c463271a964bd7237cec7e43e33d30c0d4c9b33703209d16fb21c68014c5dcbfddc9fb13a874b6d3b3ff615b4a9a4bdc7e8af26922df2d95af8801b22c3ab097b3f0c9d5671ef5ca9a7e658cc0dbfc8fbbe45ac7b47e53342f14440367ab8e4e366bee84502003262e&a_t=31160644690146100750296b5f5&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=1507&req_id=2020082416422001019808209940009AE9&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b)
+- [【GGAD】扭曲的平行线（短篇/一发完）](https://taoyaoaixiongmao.lofter.com/post/1ecbedbc_1ca2822c4)
+- [Lofter.【GGAD】荣光尽头](https://www.lofter.com/tag/GGAD%E8%8D%A3%E5%85%89%E5%B0%BD%E5%A4%B4)
+- [邓布利多爱他！《神奇动物》德普的角色啥来头](https://news.sina.cn/sh/2016-11-28/detail-ifxyawmp0419667.d.html?from=wap)
+- [Flowers for Algernon](https://www.scholastic.com/teachers/books/flowers-for-algernon-by-daniel-keyes/)
+- [[GGAD]《一期一会》](https://zhuanlan.zhihu.com/p/27909401)
+- [LOFTER|GGAD*tag*](https://www.lofter.com/tag/GGAD）
+- [【邓布利多】老朋友-不晴女士](https://yujochen.lofter.com/post/1f9b2521_1ca61d94b?act=qbwaptag_20160216_05)
+- [哈利波特反对种族主义，为什么JKR却不愿承认跨性别的存在？](https://open-hl.toutiao.com/a6850354914133180935/?item_id=6850354914133180935&utm_medium=webview&showComments=0&gy=f53aba568477e037e36195952bfdf5b2552a0c9ce3340e19240e9869cc6c462a4c5b93b59be8d632ff954246039468895fb7b03336df9ae278a7f96ffd24c9f7a7f3a3cabb463b450f03baceba3b580069fda12b51e92cef8b9f7b9e97584ec8d80609fbebbf5e241816d1ec484a1aa6f732120fec8aa4e5a5b17d8cf4867504bcc18535889f24f95cbad7bd1bd30a52&a_t=31160644690146100750296b5f5&label=vivo_llq_channel&isNews=1&showOriginalComments=true&utm_source=vivoliulanqi&utm_campaign=open&crypt=6704&req_id=202009301917550101940990155F716113&dt=vivo%20X6Plus%20D&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b) 一篇带节奏的营销号文
+- [【神奇动物在哪里2】幕后制作](https://m.bilibili.com/video/BV1gt411272f?p=1) 视频已消失
+- [说说对电影《无姓之人》的评价？](https://www.zhihu.com/question/22112456)
+- [【GGAD】亡魂与执念](https://taoyaoaixiongmao.lofter.com/post/1ecbedbc_1caaad66c)
+- [【GGAD】纯黑底幕（半原著）-重写故事结局](https://rewritetheendingofastory.lofter.com/post/263f1d_1cae3a3e8?act=qbwaptag_20160216_05)
+- [宣叙曲与悲苦剧 | Recitatives](https://xianzhi197.lofter.com/post/204ce87c_1cae6ef40?act=qbwaptag_20160216_05)
+- [Nurmengard is falling down](https://jofing.lofter.com/post/2f2903_1c977fdc6)
+- [【HP/GGAD】赎回-烛渐失控](https://christglim.lofter.com/post/2b1e66_1c8a76676)
+- [贪欢-bot](https://ggadliangcangbot.lofter.com/post/4bd356b7_1cb270b98?act=qbwaptag_20160216_05)
+- [暴雨：盖勒特·格林德沃传记](https://who-cares-whether-you-care.lofter.com/post/1f208ba9_12c823cdb)
 ***
 ### Entertaining
 ***
